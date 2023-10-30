@@ -1,5 +1,5 @@
 # OlimpClubWebsite
-https://lourenzoo.github.io/OlimpClubWebsite/
+# https://lourenzoo.github.io/OlimpClubWebsite/
 
 This repository contains the code for an imaginary webpage for a local club built using learned responsive design tools. 
 
